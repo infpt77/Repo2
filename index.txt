@@ -1,0 +1,13 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is BE08-3DEF
+
+ Directory of C:\Users\mdhasan\Desktop\GitProject
+
+07/12/2021  01:31 PM    <DIR>          .
+07/12/2021  01:31 PM    <DIR>          ..
+07/12/2021  01:07 PM               401 Hello.class
+07/12/2021  01:02 PM               121 Hello.java
+07/12/2021  01:31 PM                 0 index.txt
+07/12/2021  12:33 PM               359 textFile.txt
+               4 File(s)            881 bytes
+               2 Dir(s)  182,946,238,464 bytes free
